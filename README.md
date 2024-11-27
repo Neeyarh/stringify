@@ -6,4 +6,4 @@ The following are functions in it
 |-----------|------------|-------------|---------|
 |slugify | string | converts a string to it's slug form | "Hello World" becomes "hello-world"|
 
-(click here)[https://google.com]
+[https://google.com](click here)
