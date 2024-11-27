@@ -5,3 +5,5 @@ The following are functions in it
 | Functions | Parameters | Description | example |
 |-----------|------------|-------------|---------|
 |slugify | string | converts a string to it's slug form | "Hello World" becomes "hello-world"|
+
+(click here)[https://google.com]
